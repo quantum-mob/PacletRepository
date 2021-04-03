@@ -1,0 +1,1 @@
+PacletSite[Paclet["Name" -> "QuantumWorkbook", "Version" -> "1.0.0", "WolframVersion" -> "12+", "Description" -> "Mathematica Notebook files accompanying the Quantum Computation Workbook.", "Creator" -> "Mahn-Soo Choi (Korea University)", "Extensions" -> {{"Documentation", "Language" -> "English"}}, "Category" -> "Workbook"]]
