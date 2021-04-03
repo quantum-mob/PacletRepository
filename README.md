@@ -1,6 +1,8 @@
 # PacletServer
 
-This hosts a few paclets I am maintaining.
+This hosts a few paclets I am maintaining:
+- [Q3](quantum-mob/Q3App)
+- [QuantumWorkbook](quantum-mob/QuantumWorkbook)
 
 
 ## Set-Up Guide
