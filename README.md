@@ -13,6 +13,13 @@ PacletSiteRegister["https://github.com/quantum-mob/PacletServer/raw/main"]
 PacletSiteUpdate[PacletSites[]]
 ```
 
+To find available paclets, evaluate the follwoing statement:
+
+```Mathematica
+PacletFindRemote["Q3"]
+PacletFindRemote["QuantumWorkbook"]
+```
+
 If you do not want to use this server any longer, then evaluate the following statements:
 
 ```Mathematica
