@@ -3,6 +3,7 @@
 This hosts a few paclets I am maintaining:
 - [Q3](https://github.com/quantum-mob/Q3App)
 - [QuantumWorkbook](https://github.com/quantum-mob/QuantumWorkbook)
+- WorkbookTools -- Some utilities and stylesheets for QuantumWorkbook
 
 
 ## Set-Up Guide
