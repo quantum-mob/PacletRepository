@@ -35,7 +35,6 @@ To find available versions of the paclets, evaluate the follwoing statement:
 ```Mathematica
 PacletFindRemote["Q3"]
 PacletFindRemote["QuantumWorkbook"]
-PacletFindRemote["WorkbookTools"]
 ```
 
 If you do not want to use this server any longer, then evaluate the following statements:
