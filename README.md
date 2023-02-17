@@ -2,7 +2,7 @@
 
 This hosts a few paclets I am maintaining:
 - [Q3](https://github.com/quantum-mob/Q3App)
-- [QuantumWorkbook](https://github.com/quantum-mob/QuantumWorkbook)
+- [QuantumPlaybook](https://github.com/quantum-mob/QuantumPlaybook)
 - WorkbookTools -- Some utilities and stylesheets for QuantumWorkbook
 
 
@@ -26,7 +26,7 @@ Module[
 To install paclets, use this code:
 
 ```Mathematica
-PacletIntall["Q3"]
+PacletInstall["Q3"]
 ```
 Or you can replace "Q3" with other paclet you like to install.
 
@@ -34,7 +34,7 @@ To find available versions of the paclets, evaluate the follwoing statement:
 
 ```Mathematica
 PacletFindRemote["Q3"]
-PacletFindRemote["QuantumWorkbook"]
+PacletFindRemote["QuantumPlaybook"]
 ```
 
 If you do not want to use this server any longer, then evaluate the following statements:
