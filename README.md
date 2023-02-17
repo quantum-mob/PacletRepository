@@ -26,7 +26,7 @@ Module[
 To install paclets, use this code:
 
 ```Mathematica
-PacletIntall["Q3"]
+PacletInstall["Q3"]
 ```
 Or you can replace "Q3" with other paclet you like to install.
 
