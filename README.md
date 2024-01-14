@@ -40,6 +40,6 @@ PacletFindRemote["QuantumPlaybook"]
 If you do not want to use this server any longer, then evaluate the following statements:
 
 ```Mathematica
-PacletSiteUnregister["https://github.com/quantum-mob/PacletRepositor/raw/main"]
+PacletSiteUnregister["https://github.com/quantum-mob/PacletRepository/raw/main"]
 PacletSiteUpdate @ PacletSites[]
 ```
