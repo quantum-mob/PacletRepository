@@ -1,6 +1,6 @@
-# PacletServer
+# Quantum Mob's Woflram Language Paclet Repository
 
-This hosts a few paclets I am maintaining:
+This hosts a few paclets we are maintaining:
 - [Q3](https://github.com/quantum-mob/Q3App)
 - [QuantumPlaybook](https://github.com/quantum-mob/QuantumPlaybook)
 - WorkbookTools -- Some utilities and stylesheets for QuantumWorkbook
@@ -14,8 +14,8 @@ Copy the following code, and just evaluate it in your Mathematica(R) Notebook:
 Module[
   { ps },
   ps = PacletSiteRegister[
-    "https://github.com/quantum-mob/PacletServer/raw/main",
-    "Quamtum Mob Paclet Server"
+    "https://github.com/quantum-mob/PacletRepository/raw/main",
+    "Quamtum Mob's Wolfram Language Paclet Repository"
    ];
   PacletSiteUpdate[ps]
  ]
@@ -40,6 +40,6 @@ PacletFindRemote["QuantumPlaybook"]
 If you do not want to use this server any longer, then evaluate the following statements:
 
 ```Mathematica
-PacletSiteUnregister["https://github.com/quantum-mob/PacletServer/raw/main"]
+PacletSiteUnregister["https://github.com/quantum-mob/PacletRepositor/raw/main"]
 PacletSiteUpdate @ PacletSites[]
 ```
