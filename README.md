@@ -1,6 +1,6 @@
 # Quantum Mob's Woflram Language Paclet Repository
 
-This hosts a few paclets we are maintaining:
+This repository hosts a few paclets we are maintaining:
 - [Q3](https://github.com/quantum-mob/Q3App)
 - [QuantumPlaybook](https://github.com/quantum-mob/QuantumPlaybook)
 - WorkbookTools -- Some utilities and stylesheets for QuantumWorkbook
